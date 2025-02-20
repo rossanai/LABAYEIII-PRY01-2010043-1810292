@@ -1,0 +1,7 @@
+1
+4
+Mcdonald’sTrinidad 4.5 Chacaito 15.4
+Bus1 USB-Chacaito 10.2
+Bus1 Chacaito-Mcdonald’sTrinidad-USB 15
+Bus1 Mcdonald’sTrinidad-USB 11
+Bus1 Chacaito-USB 15
